@@ -36,4 +36,6 @@ public class Main {
             System.out.println("No existen raices reales.");
         }
     }
+    System.out.println("Version 2: correccion aplicada");
 }
+
