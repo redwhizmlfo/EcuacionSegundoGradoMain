@@ -33,9 +33,9 @@ public class Main {
             System.out.println("Una raiz real doble:");
             System.out.println("Raiz: " + x1);
         } else {
-            System.out.println("No existen raices reales.");
+            System.out.println("No existen raices reales por discriminante negativo.");
         }
     }
-    System.out.println("Version 4: ultima fase de correccion aplicada");
+    
 }
 
